@@ -1,0 +1,5 @@
+# Ignore .csv files
+small/
+large/
+.vscode/
+test_degrees.py
